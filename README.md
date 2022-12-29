@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Frameworks, Courses, etc**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **sebasgonzac27@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
