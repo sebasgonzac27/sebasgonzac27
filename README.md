@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Gonzalez Camacho</h1>
 <h3 align="center">A passionate Systems Engineer from Colombia</h3>
 
-- 🎓 I'm currently studying systems engineering at *Universidad del Valle*
+- 🎓 I'm currently studying systems engineering at **Universidad del Valle**
 
 - 🌱 I’m currently learning **Frameworks, Courses, etc**
 
