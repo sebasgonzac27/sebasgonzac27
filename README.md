@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasgonzac27" alt="sebasgonzac27" /></a> </p>
 
-- 🔭 I’m currently working on **Contento Latam**
+- 🔭 I’m currently working on **Pragma**
 
-- 🌱 I’m currently learning **Sass, Next JS, Vue JS**
+- 🌱 I’m currently learning **React JS, AWS**
 
 - 👯 I’m looking to collaborate on **Pragma**
 
